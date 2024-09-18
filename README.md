@@ -1,1 +1,2 @@
 # simulation-of-a-video-sharing-platform-using-an-in-memory-database
+-  It manages elf user accounts, their bills, videos they upload, and the views on those videos. The program loads data from text files, organizes it in a database, and then runs queries based on user input, simulating typical video platform queries like fetching bills, tracking video views, and retrieving analytics about video performance.
